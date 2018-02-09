@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EasyKanbanDesktopManager.iml" filepath="$PROJECT_DIR$/EasyKanbanDesktopManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EasyKanban_GUI/EasyKanban_GUI.iml" filepath="$PROJECT_DIR$/EasyKanban_GUI/EasyKanban_GUI.iml" />
+    </modules>
+  </component>
+</project>
